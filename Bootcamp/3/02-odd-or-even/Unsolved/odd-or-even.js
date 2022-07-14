@@ -4,3 +4,6 @@
 var oddOrEven = function (num) {
   return num % 2 === 0 ? 'even' : 'odd';
 };
+
+console.log(oddOrEven(2));
+console.log(oddOrEven(1));
